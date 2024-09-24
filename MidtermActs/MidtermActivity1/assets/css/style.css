@@ -19,3 +19,14 @@
 .costum-shop{
     background-color: #d1c8c1;
 }
+.costum-navlink{
+    color: #86654b !important;
+}
+.about-image{
+    height: 500px !important;
+    width: 500px !important;
+    object-fit: cover;
+}
+.about-font{
+    color: #31241e;
+}
