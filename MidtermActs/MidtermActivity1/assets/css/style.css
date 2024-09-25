@@ -5,10 +5,11 @@
     font-family: 'Poppins', sans-serif;
 }
 .costum-bg{
-    background-color: #f6f4f3;
+    background-color: #f6f4f3 !important;
 }
 .costum-border{
     border-bottom: 2px solid #31241e;
+    background-color: #f6f4f3 !important;
 }
 .bg-image{
     background-image: url(../images/home1.jpg);
@@ -50,6 +51,5 @@
 .fixed-container {
     max-width: 1200px; 
     min-width: 800px;  
-
   }
 
