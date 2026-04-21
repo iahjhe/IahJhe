@@ -59,8 +59,8 @@ Passionate about raising and training **roosters** — not just for competition,
 
 [![GitHub](https://img.shields.io/badge/GitHub-IahJhe-181717?logo=github)](https://github.com/IahJhe)
 [![Twitter](https://img.shields.io/badge/Facebook-@IahJhe-1DA1F2?logo=facebook)](https://www.facebook.com/jhe.viah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iahjhe-0A66C2?logo=linkedin)](www.linkedin.com/in/jehaiah-ambas-6959a4310)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iahjhe.dev-FF5722?logo=google-chrome)](https://iahjhe.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iahjhe-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jehaiah-ambas-6959a4310)
+[![Instagram](https://img.shields.io/badge/Instagram-iahjhe.dev-FF5722?logo=instagram)](https://www.instagram.com/ldkmkh)
 
 ---
 
